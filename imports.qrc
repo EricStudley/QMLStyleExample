@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>imports/ExampleStyle/qmldir</file>
+        <file>imports/ExampleStyle/TextField.qml</file>
+    </qresource>
+</RCC>
